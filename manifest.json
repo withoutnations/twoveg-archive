@@ -1,0 +1,15 @@
+{
+  "name": "twoVeg",
+  "short_name": "twoVeg",
+  "lang": "en-US",
+  "start_url": "https://www.twoveg.uk",
+  "display": "standalone",
+  "theme_color": "#076969",
+  "icons": [
+    {
+      "src": "/wp-content/themes/beetroot/images/ico/favicon-180.png",
+      "sizes": "180x180",
+      "type": "png"
+    }
+  ]
+}
